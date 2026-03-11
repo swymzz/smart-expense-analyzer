@@ -1,0 +1,10 @@
+scenario,transactions,anomalies_detected,runtime_seconds
+crypto_activity.csv,8,1,0.33
+food_spike.csv,12,1,0.33
+fraud_like.csv,9,1,0.32
+luxury_spending.csv,8,1,0.27
+mixed_behavior.csv,10,1,0.17
+normal_month.csv,15,1,0.23
+salary_month.csv,10,1,0.27
+shopping_spike.csv,10,1,0.28
+subscription_heavy.csv,10,0,0.23

@@ -1,0 +1,4 @@
+{"run_id": "c6ee75c8-d97d-47df-ac6a-47e63d9a14c8", "state": "LOAD_DATA", "tool": "system", "message": "Dataset loaded", "data": null, "timestamp": "2026-03-11 16:45:51.475477"}
+{"run_id": "c6ee75c8-d97d-47df-ac6a-47e63d9a14c8", "state": "CATEGORIZE", "tool": "categorizer", "message": "Categorizing transactions", "data": null, "timestamp": "2026-03-11 16:45:51.477478"}
+{"run_id": "c6ee75c8-d97d-47df-ac6a-47e63d9a14c8", "state": "DETECT_ANOMALIES", "tool": "anomaly_detector", "message": "Detecting anomalies", "data": null, "timestamp": "2026-03-11 16:45:51.481476"}
+{"run_id": "c6ee75c8-d97d-47df-ac6a-47e63d9a14c8", "state": "GENERATE_REPORT", "tool": "report_generator", "message": "Generating report", "data": null, "timestamp": "2026-03-11 16:45:51.838293"}
